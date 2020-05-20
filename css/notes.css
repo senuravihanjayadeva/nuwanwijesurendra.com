@@ -1,0 +1,23 @@
+.notestable tr{
+
+    border-bottom: rgb(110, 175, 25) 4px  solid;
+
+}
+
+.notestable td{
+
+    padding: 10px;
+}
+
+.notestable td button{
+
+    background: none;
+    border: rgb(110, 175, 25) 4px  solid;
+}
+
+.notestable td button:hover{
+
+    color: rgb(233, 233, 233);
+    background: rgb(110, 175, 25);
+    border: rgb(110, 175, 25) 4px  solid;
+}

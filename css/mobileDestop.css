@@ -1,0 +1,29 @@
+
+.MobileViewBanner{
+
+    display: none;
+
+}
+
+.DestopViewBanner{
+
+    display: block;
+
+}
+
+@media screen and (max-width: 800px)
+{
+
+.MobileViewBanner{
+
+    display: block;
+
+}
+
+.DestopViewBanner{
+
+    display: none;
+
+}
+  
+}

@@ -1,0 +1,10 @@
+#myDIV {
+ 
+  font-color: red;
+  animation: mymove 0.75s infinite;
+}
+
+@keyframes mymove {
+  from { color: black;}
+  to { color: red;}
+}
